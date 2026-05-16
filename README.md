@@ -35,8 +35,3 @@ part-3-nlp-sequence-modeling/
 - **Task 5: LSTM Architecture** — Embedding → LSTM(64) → Dense(32) → Softmax(3)
 - **Task 6: Transformer Reflection** — RNN limitations, LSTM gating, attention, transformers
 
-## How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook notebook.ipynb
-```
