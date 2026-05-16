@@ -1,0 +1,23 @@
+SAMPLE PREDICTIONS
+============================================================
+
+#    True       LR         NB         Text
+------------------------------------------------------------
+✓    positive   positive   positive   I need information about the payment process. My t
+✓    positive   positive   positive   I need information about the payment process.
+✓    negative   negative   negative   The refund process was fast and convenient. I appr
+✓    negative   negative   negative   My refund is still pending and this experience is 
+✓    positive   positive   positive   Please tell me how to update my account details.
+✓    neutral    neutral    neutral    I need help finding the invoice for my last order.
+✓    positive   positive   positive   I am satisfied with the plan and would recommend i
+✓    positive   positive   positive   I want to understand the warranty terms for this p
+✓    neutral    neutral    neutral    I need help finding the invoice for my last order.
+✓    neutral    neutral    neutral    My refund is still pending and this experience is 
+✓    positive   positive   positive   Great service and clear communication from the sup
+✓    positive   positive   positive   I like the new video call and it is easy to use. I
+✓    neutral    neutral    neutral    Your support team resolved my issue quickly. Thank
+✓    neutral    neutral    neutral    I am satisfied with the plan and would recommend i
+✓    negative   negative   negative   I have raised multiple tickets but nobody has fixe
+
+LR Accuracy : 100.00%
+NB Accuracy : 100.00%
